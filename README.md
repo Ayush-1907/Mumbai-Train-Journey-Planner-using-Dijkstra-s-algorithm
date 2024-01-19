@@ -1,0 +1,5 @@
+The Mumbai Train Journey Planner is a Java-based application designed to help users find the shortest path between two train stations within the Mumbai suburban train network. The network comprises different train lines, each consisting of major and minor stations. Major stations have both slow and fast train nodes, while minor stations have only slow nodes.
+
+The planner uses a graph-based approach to represent the train network, with stations as nodes and connections as edges. The connections include both slow and fast routes, and the application considers various factors such as distances between stations and line changes to determine the optimal path.
+
+Users can input their desired source and destination stations interactively, and the planner provides information on the shortest path, total distance traveled, and any line changes required. The application emphasizes flexibility, allowing users to navigate the complex Mumbai train network efficiently and make informed decisions about their train journeys.
